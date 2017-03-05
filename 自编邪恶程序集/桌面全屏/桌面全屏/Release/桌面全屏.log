@@ -1,0 +1,7 @@
+﻿  mianComment.cpp
+mianComment.cpp(133): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+mianComment.cpp(122): warning C4101: “nid”: 未引用的局部变量
+  正在生成代码
+e:\代码\自编邪恶程序集\桌面全屏\桌面全屏\miancomment.cpp(233): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  桌面全屏.vcxproj -> E:\代码\自编邪恶程序集\桌面全屏\Release\桌面全屏.exe

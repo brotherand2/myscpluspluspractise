@@ -1,0 +1,7 @@
+the file directory  is fault
+the file directory  is fault
+the file directory  is fault
+the file directory  is fault
+the file directory "E:\代码\C编程\test\Backup"\*.h *.cpp is fault
+the file directory "E:\代码\C编程\test\Backup"\*.txt is fault
+the file directory C:\WINDOWS\Temp\*.tmp *log is fault

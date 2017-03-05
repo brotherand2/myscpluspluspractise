@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/5/22 9:12:10。
+     1>项目“E:\代码\自编邪恶程序集\删除相同大小文件\deleteSameFile.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _USING_V110_SDK71_ /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release\\" /Fd".\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt deleteSameFile.cpp
+         deleteSameFile.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release\deleteSameFile.exe" /INCREMENTAL:NO /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\Release\deleteSameFile.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\deleteSameFile.lib" /MACHINE:X86 /SAFESEH .\Release\deleteSameFile.obj
+         deleteSameFile.vcxproj -> E:\代码\自编邪恶程序集\删除相同大小文件\.\Release\deleteSameFile.exe
+     1>已完成生成项目“E:\代码\自编邪恶程序集\删除相同大小文件\deleteSameFile.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.04

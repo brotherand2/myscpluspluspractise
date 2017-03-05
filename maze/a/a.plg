@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: a - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "F:\personal\Temp\RSP3D41.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /Fp"Debug/a.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\学习\C\a\a.cpp"
+]
+Creating command line "cl.exe @F:\personal\Temp\RSP3D41.tmp" 
+<h3>Output Window</h3>
+Compiling...
+a.cpp
+E:\学习\C\a\a.cpp(33) : error C2065: 'IDS_APP_TITLE' : undeclared identifier
+E:\学习\C\a\a.cpp(34) : error C2065: 'IDC_MAZE' : undeclared identifier
+E:\学习\C\a\a.cpp(83) : error C2065: 'IDI_MAZE' : undeclared identifier
+E:\学习\C\a\a.cpp(88) : error C2065: 'IDI_SMALL' : undeclared identifier
+E:\学习\C\a\a.cpp(131) : error C2065: 'IDD_GAME_SET' : undeclared identifier
+E:\学习\C\a\a.cpp(165) : error C2065: 'IDM_ABOUT' : undeclared identifier
+E:\学习\C\a\a.cpp(165) : error C2051: case expression not constant
+E:\学习\C\a\a.cpp(166) : error C2065: 'IDD_ABOUTBOX' : undeclared identifier
+E:\学习\C\a\a.cpp(168) : error C2065: 'IDM_EXIT' : undeclared identifier
+E:\学习\C\a\a.cpp(168) : error C2051: case expression not constant
+E:\学习\C\a\a.cpp(171) : error C2065: 'IDM_GAMESET' : undeclared identifier
+E:\学习\C\a\a.cpp(171) : error C2051: case expression not constant
+E:\学习\C\a\a.cpp(177) : warning C4065: switch statement contains 'default' but no 'case' labels
+E:\学习\C\a\a.cpp(301) : error C2065: 'IDC_EDIT_CELL' : undeclared identifier
+E:\学习\C\a\a.cpp(302) : error C2065: 'IDC_EDIT_SPEED' : undeclared identifier
+E:\学习\C\a\a.cpp(319) : error C2065: 'IDC_RADIO_PLAY' : undeclared identifier
+E:\学习\C\a\a.cpp(321) : error C2065: 'IDC_RADIO_AUTO' : undeclared identifier
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+a.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

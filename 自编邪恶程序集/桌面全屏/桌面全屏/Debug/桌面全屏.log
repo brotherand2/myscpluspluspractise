@@ -1,0 +1,4 @@
+﻿  mianComment.cpp
+e:\代码\自编邪恶程序集\桌面全屏\桌面全屏\miancomment.cpp(127): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\代码\自编邪恶程序集\桌面全屏\桌面全屏\miancomment.cpp(213): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  桌面全屏.vcxproj -> E:\代码\自编邪恶程序集\桌面全屏\Debug\桌面全屏.exe

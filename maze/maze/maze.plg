@@ -1,0 +1,62 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: maze - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "link.exe /nologo /subsystem:console /incremental:yes /pdb:"Debug/maze.pdb" /debug /machine:I386 /out:"Debug/maze.exe" /pdbtype:sept  ".\Debug\maze.obj" "
+<h3>Output Window</h3>
+Linking...
+maze.obj : error LNK2001: unresolved external symbol __imp__DispatchMessageA@4
+maze.obj : error LNK2001: unresolved external symbol __imp__TranslateMessage@4
+maze.obj : error LNK2001: unresolved external symbol __imp__TranslateAcceleratorA@12
+maze.obj : error LNK2001: unresolved external symbol __imp__GetMessageA@16
+maze.obj : error LNK2001: unresolved external symbol __imp__LoadAcceleratorsA@8
+maze.obj : error LNK2001: unresolved external symbol __imp__LoadStringA@16
+maze.obj : error LNK2001: unresolved external symbol __imp__RegisterClassExA@4
+maze.obj : error LNK2001: unresolved external symbol __imp__LoadCursorA@8
+maze.obj : error LNK2001: unresolved external symbol __imp__LoadIconA@8
+maze.obj : error LNK2001: unresolved external symbol __imp__DialogBoxParamA@20
+maze.obj : error LNK2001: unresolved external symbol __imp__UpdateWindow@4
+maze.obj : error LNK2001: unresolved external symbol __imp__ShowWindow@8
+maze.obj : error LNK2001: unresolved external symbol __imp__CreateWindowExA@48
+maze.obj : error LNK2001: unresolved external symbol __imp__PostQuitMessage@4
+maze.obj : error LNK2001: unresolved external symbol __imp__EndPaint@8
+maze.obj : error LNK2001: unresolved external symbol __imp__BitBlt@36
+maze.obj : error LNK2001: unresolved external symbol __imp__GetClientRect@8
+maze.obj : error LNK2001: unresolved external symbol __imp__BeginPaint@8
+maze.obj : error LNK2001: unresolved external symbol __imp__DefWindowProcA@16
+maze.obj : error LNK2001: unresolved external symbol __imp__KillTimer@8
+maze.obj : error LNK2001: unresolved external symbol __imp__DestroyWindow@4
+maze.obj : error LNK2001: unresolved external symbol __imp__EndDialog@8
+maze.obj : error LNK2001: unresolved external symbol __imp__SetTimer@16
+maze.obj : error LNK2001: unresolved external symbol __imp__IsDlgButtonChecked@8
+maze.obj : error LNK2001: unresolved external symbol __imp__GetDlgItemInt@16
+maze.obj : error LNK2001: unresolved external symbol __imp__CheckDlgButton@12
+maze.obj : error LNK2001: unresolved external symbol __imp__SetDlgItemInt@16
+maze.obj : error LNK2001: unresolved external symbol __imp__ReleaseDC@8
+maze.obj : error LNK2001: unresolved external symbol __imp__SelectObject@8
+maze.obj : error LNK2001: unresolved external symbol __imp__CreateSolidBrush@4
+maze.obj : error LNK2001: unresolved external symbol __imp__CreatePen@12
+maze.obj : error LNK2001: unresolved external symbol __imp__CreateCompatibleBitmap@12
+maze.obj : error LNK2001: unresolved external symbol __imp__CreateCompatibleDC@4
+maze.obj : error LNK2001: unresolved external symbol __imp__GetDC@4
+maze.obj : error LNK2001: unresolved external symbol __imp__LineTo@12
+maze.obj : error LNK2001: unresolved external symbol __imp__MoveToEx@16
+maze.obj : error LNK2001: unresolved external symbol __imp__FillRect@12
+maze.obj : error LNK2001: unresolved external symbol __imp__InvalidateRect@12
+maze.obj : error LNK2001: unresolved external symbol __imp__MessageBoxA@16
+maze.obj : error LNK2001: unresolved external symbol __imp__TextOutA@20
+LIBCMTD.lib(crt0.obj) : error LNK2001: unresolved external symbol _main
+Debug/maze.exe : fatal error LNK1120: 41 unresolved externals
+Ö´ÐÐ link.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+maze.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
